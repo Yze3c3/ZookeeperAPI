@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d46e2474-6c6f-4419-b1a1-ba9f93a54268" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJm4RZpfc3mZHo9lgVGmoRctxI" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15481481" />
+    <property name="project.structure.side.proportion" value="0.16564952" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Workspaces\ZookeeperAPI\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyLock">
+    <configuration name="GloballyUriqueId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsl.example.GloballyUriqueId" />
+      <module name="ZookeeperAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsl.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConfigCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsl.config.MyConfigCenter" />
+      <module name="ZookeeperAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsl.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsl.lock.MyLock" />
+      <module name="ZookeeperAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsl.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZKWatcherGetChild.watcherGetChild1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZookeeperAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsl.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lsl.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.lsl.zookeeper.ZKWatcherGetChild" />
+      <option name="METHOD_NAME" value="watcherGetChild1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZKWatcherGetChild.watcherGetChild2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZookeeperAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsl.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lsl.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.lsl.zookeeper.ZKWatcherGetChild" />
+      <option name="METHOD_NAME" value="watcherGetChild2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyLock" />
+        <item itemvalue="Application.GloballyUriqueId" />
+        <item itemvalue="Application.MyConfigCenter" />
+        <item itemvalue="JUnit.ZKWatcherGetChild.watcherGetChild2" />
+        <item itemvalue="JUnit.ZKWatcherGetChild.watcherGetChild1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d46e2474-6c6f-4419-b1a1-ba9f93a54268" name="Default Changelist" comment="" />
+      <created>1594047878800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594047878800</updated>
+      <workItem from="1594047880207" duration="2792000" />
+      <workItem from="1594079080466" duration="603000" />
+      <workItem from="1594079965391" duration="162000" />
+      <workItem from="1594080320075" duration="1726000" />
+      <workItem from="1594094612232" duration="4314000" />
+      <workItem from="1594106432096" duration="440000" />
+      <workItem from="1594122617729" duration="7640000" />
+      <workItem from="1594196906796" duration="35000" />
+      <workItem from="1594605539135" duration="19178000" />
+      <workItem from="1596887766143" duration="99000" />
+      <workItem from="1596887934964" duration="1167000" />
+      <workItem from="1596889131601" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="387" key="#Notifications" timestamp="1596888881337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="387" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1596888881337" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1596889111681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596889111681" />
+    <state x="775" y="441" key="Github.CreateGistDialog" timestamp="1596889001992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="441" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596889001992" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1596889194257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596889194257" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/lsl/zookeeper/ZKCreate.java</url>
+          <line>70</line>
+          <properties class="com.lsl.zookeeper.ZKCreate" method="create4">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lsl/zookeeper/ZKConnectionWatcher.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
