@@ -15,6 +15,8 @@ import java.util.concurrent.CountDownLatch;
 public class ZKCreate {
     private  static final String IP="123.57.219.175:2181";
     private ZooKeeper zooKeeper;
+
+
     @Before
     public void before() throws  Exception{
         CountDownLatch countDownLatch=new CountDownLatch(1);
@@ -139,24 +141,5 @@ zooKeeper.create("/create/node6","node6".getBytes(), ZooDefs.Ids.CREATOR_ALL_ACL
         System.out.println(result);
       }
 
-    @Test
-    public void create11() throws Exception {
-        // 异步方式创造节点
-        zooKeeper.create("/create/node11", "node11".getBytes(), ZooDefs.Ids.OPEN_ACL_UNSAFE,
-                CreateMode.PERSISTENT, new AsyncCallback.Create2Callback() {
-            @Override
-            public void processResult(int i, String path, Object ctx, String name, Stat stat) {
-                //0 代表创建成功
-                System.out.println(i);
-                //节点的路径
-                System.out.println(path);
-                //节点的路径
-                System.out.println(name);
-                //上下文参数
-                System.out.println(ctx);
-            }
-        },"I am context");
-        Thread.sleep(10000);
-        System.out.println("结束");
-       }
-    }
+
+}

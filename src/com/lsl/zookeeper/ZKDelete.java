@@ -36,7 +36,7 @@ public class ZKDelete {
 
     @Test
     public void delete2() throws KeeperException, InterruptedException {
-        zooKeeper.delete("/delete/node2", -1, new AsyncCallback.VoidCallback() {
+        zooKeeper.delete("/localPath", -1, new AsyncCallback.VoidCallback() {
             @Override
             public void processResult(int i, String s, Object o) {
                 System.out.println(i);
