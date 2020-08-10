@@ -47,9 +47,7 @@ public class curatorTemPlateLock extends  AbstractTemplateLock {
                     .forPath(localPath, ("localPath"+Thread.currentThread().getName()).getBytes());
         } catch (Exception e) {
             flag = false;
-            return flag;
         }
-
         return flag;
     }
 
